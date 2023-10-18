@@ -1,2 +1,8 @@
 # card-hover-effect
 Created with CodeSandbox
+
+# Demo Link - 
+[here]()
+
+# Preview
+![ezgif com-video-to-gif](https://github.com/Charlygraphy23/card-hover-effect/assets/46165735/bd20358b-8d17-487e-a000-2f20d8063857)
